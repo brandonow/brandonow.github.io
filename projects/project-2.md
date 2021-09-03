@@ -1,26 +1,24 @@
 ---
 layout: project
 type: project
-published: false
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-# All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+image: images/CIMP-logo.png
+title: CIMP Project
+permalink: projects/CIMP
+date: 2021-09-02
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - CIMP
+  - Coding
+  - Project
+summary: My experiences in my junior project with the CIMP Project.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+## CIMP Project
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+During my junior year in high school, I was offered an opportunity to be apart of the CIMP program. During my time on this project, I got to experience and learn a lot about coding and what it was like to work on a team of other developers. <img class="ui medium right floated rounded image" src="/images/cimp-picture.PNG"> This was a different environment for me as I only previously worked with one other person on a simple coding project. Our project had to do with the creation of a website which would have the main functionality of calculating storm water utility fee as well as other cool functionalities. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+During my time in this project, I only coded projects that were meant for classes. Doing the CIMP Project was an experience as I was put into a situation where I had to work together with other developers. I have learned to deal with unexpected situations as well as disagreements throughout the project. Additionally, the mentors were great help in giving advice and teaching us how to work together as well as refine our coding. During this project, I was able to improve my coding and learn better habits that I will use in the future.  
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+The website: [CIMP Website](https://dev.cimp2021.datahouse.com/).
+
+
+
