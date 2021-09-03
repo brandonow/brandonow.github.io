@@ -9,7 +9,7 @@ labels:
   - Swimming
   - Club
   - High School
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: My club and high school swimming experiences for 10+ years.
 ---
 
 ## Swimming
