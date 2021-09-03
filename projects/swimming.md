@@ -4,7 +4,7 @@ type: project
 image: images/manoa-aquatics.png
 title: Swimming
 permalink: projects/swimming
-date: 2015-07-01
+date: 2015-09-02
 labels:
   - Swimming
   - Club
