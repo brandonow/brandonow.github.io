@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cimp-logo.png
 title: CIMP Project
-permalink: projects/CIMP
+permalink: projects/cimp
 date: 2021-09-02
 labels:
   - CIMP
