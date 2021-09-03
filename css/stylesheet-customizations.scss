@@ -7,16 +7,16 @@
 
 // Customize the background color
 body {
-  // background-color: #f2f2f2;;
+  background-color: lienar-gradient(to bottom-right, #A7C7E7, whitesmoke);
 }
 
 // Customize the menubar color
 .ui.menu {
-  // background: $background-start;
+  background: #A7C7E7;
 }
 
 // Customize the home page icon colors
 .icon-color {
-  // color: silver;
+  color: darken(#A7C7E7, 20%);
 }
 
