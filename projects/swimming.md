@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/manoa-aquatics.png
 title: Swimming
-permalink: projects/micromouse
+permalink: projects/swimming
 date: 2015-07-01
 labels:
   - Swimming
