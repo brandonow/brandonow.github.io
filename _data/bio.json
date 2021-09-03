@@ -83,21 +83,15 @@
     {
       "company": "eWorlds Enterprise Solution",
       "position": "Web Developer Intern",
-      "website": "",
+      "website": "https://www.eworldes.com/",
       "startDate": "2021-07-04",
       "endDate": "Present",
-      "summary": "Intern",
+      "summary": "",
       "highlights": [
-        "Work as both front-end and back-end engineer developing a website",
-        "Work and collaborate with other devlopers to create a high quality website"
+        "Work as both front-end and back-end engineer using Vue JS and Typescript",
+        "Collaborate with other devlopers to create a high quality website"
       ]
     }
-  ],
-  "volunteer": [
-    
-  ],
-  "awards": [
-    
   ],
   "references": [
     {
