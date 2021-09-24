@@ -1,20 +1,20 @@
 ---
 layout: essay
 type: essay
-title: My Future With Engineering
-date: 2021-09-02
+title: The Norm in Coding
+date: 2021-09-23
 labels:
-  - Software Engineering
-  - Interests
-  - Javascript
+  - Coding Standards
+  - IntelliJ
+  - ESLint
 ---
 
-## First Thoughts
+## Foundations of the Basics  
 
-When I was in high school, I was still deciding on which major I wanted to become. I had a couple of majors in mind like architecture or engineering. I was partially scared to go into engineering as I heard it was a super hard and time consuming major. I had thought I lacked the ability and the smarts to become an engineer as I was not always the brightest or studious student. Although I was intimidated by the stories of engineering, that pushed me forward to step out of my comfort zone and try. <img class="ui medium right floated rounded image" src="/images/computer-engineering.jpg"> It wasn't until I took STEM in my junior and senior year that I knew that I wanted to work with technology. Another big part of my inspiration for becoming an engineer was my brother as he was someone I always looked up to. Luckily, our STEM class taught coding and a bit of hardware. During my first year in STEM, I learned how to code with basic HTML and CSS. We were able to learn the basics of HTML and CSS which lead us to create a webpage project locally on a computer. In our second year, I was able to create different and cool functionalities like a small shop or games using Javascript. Doing this was a lot of fun as I got to work on projects with friends and learned how technology works. 
+Just like learning and being able to apply a language like English, coding is exactly the same. Everyone expresses themselves differently whether it is speaking or writing. Likewise, coding is same where everyone has their own personal styles of writing it. Although everyone has their own style of doing things, standards come in when things start becoming formal. Writing formal essays or presenting formally typically has standards including indentations, proper diction, and transitions. Similarly to coding, there are certain standards that are used to format our code to be more templatable, universal, and easier to understand by others. Following a certain standard allows viewers to read things consistently. Applying this to coding can make it easier for everyone to understand consistently. 
 
-When I enrolled into the University of Hawaii, I had determined my major to be computer engineering as I was accepted into the college of engineering. I decided to challenge myself to step out of my comfort zone and become something I wanted to be. Although I did not know what type of computer engineering I wanted to be, I knew I wanted to either do something with software development or work with hardware. I feel that technology is constantly changing as it slowly evolves and becomes better as the years goes on. However, with my interest in computer engineering, I understand that I have to build a strong foundation and understanding on concepts and multiple languages. 
+In English, writing formal essays usually follows a certain standard and or template. For example, when writing a formal essay, rather than generally talking about the topic, there is usually certain sections like an introduction and a conclusion. Being able to follow a coding standard similarly to the essays can help provide a foundation for us to code better in the our futures. Learning coding standards is the same as learning how to use a template or taking notes. While coding normally, a person tends to learn coding standards and incorparate that into their everyday code. By doing so, people can easily understand each other's codes. This is helpful as coding can sometimes require people to work in groups and being able to understand each other's code can make it easier for people to work faster.    
 
-## My Future
+## The ESLint Experience
 
-I am currently in my senior year of computer engineering. I have experienced and learned a lot from school, projects, and internships. I have learned to collaborate with others as well as work in unexpected situations like disagreements. I hope to improve my problem solving skills as well as refine my coding skills to be better with my future career. I also hope to meet new people that I can become friends with and learn new things from. Additionally, I hope to gain a career here for experience as well as a career somewhere else later on. I want to be able to experience coding in different states and places. I will be happy if I am able to take things I have learned from school and apply it to my future career and projects. 
+After installing IntelliJ and ESLint, it was interesting IDE to use. Previously, I had only use services like wiliki and Visual Code to work on my code. However, I was able to use and learn IntelliJ for a little bit during my summer internship. I felt that it was nice to do multiple things as well as have certain functionalities we could use. I believe that having the green checkmark can be both useful and painful. <img class="ui medium right floated rounded image" src="/images/eslint-error.png"> Althought it can be a pain to get rid of the errors, I believe that having ESLint is a good checker as it checks for standards in code as well as errors you may get and why. As the semester goes on, it will be easier for me to use and IDE like IntelliJ with ESLint.  
