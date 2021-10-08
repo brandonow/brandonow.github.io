@@ -1,10 +1,12 @@
 ---
-layout: essay type: essay title: Simple vs Fancy date: 2021-09-23 labels:
-
-- UI Frameworks
-- Semantic UI
-- IntelliJ
-
+layout: essay
+type: essay
+title: Simple vs Fancy
+date: 2021-10-07
+labels:
+  - UI Frameworks
+  - Semantic UI
+  - IntelliJ
 ---
 
 ## Raw vs Cooked
