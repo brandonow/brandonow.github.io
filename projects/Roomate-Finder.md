@@ -10,7 +10,7 @@ labels:
 - Coding
 - Project
 - Roommate Finder
-  summary: A web application built for UH students to find roommates with each other and meet new people.
+summary: A web application built for UH students to find roommates with each other and meet new people.
 ---
 
 ## Roommate Radar
@@ -20,8 +20,8 @@ The issues that I was tasked to work with was to work with the Sign In and Sign 
 
 Project Overview: [Roommate Radar](https://roommate-radar.github.io/). Project Source Code: [Roommate Radar](https://github.com/roommate-radar/roommate-radar). 
 
-<img class="ui medium centered floated rounded image" src="/images/my_profile.PNG"> 
-<img class="ui medium centered floated rounded image" src="/images/list_profiles.PNG">
+<p><img class="ui centered image" src="/images/my_profile.PNG"></p>
+<p><img class="ui centered image" src="/images/list_profiles.PNG"></p>
 
 
 
