@@ -4,7 +4,7 @@ type: project
 image: images/roommate-radar.PNG
 title: Roommate Finder
 permalink: projects/roommateradar
-date: 2021-09-02
+date: 2021-12-17
 labels:
 - Web Development
 - Coding
